@@ -14,8 +14,22 @@
   />
 </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+## 👨‍🎓 Студент ИТМО | Факультет Безопасности Информационных Технологий
 
-### 📊 Github Stats
+![фсб-отправка](https://github.com/user-attachments/assets/a2a79e3b-4b83-48bb-bf4c-02384e95a164)
+
+**Моё оружие:**
+- Python — гибкость и скорость;
+- C — сила и контроль;
+- NASM — точность и понимание основ;
+- HTML, CSS, JavaScript - стек веб-технологий.
+
+**Философия:**  
+*"Сначала научись правильно держать меч,  
+потом учись фехтовать,  
+и только затем — защищать"*
+
+![ascii](https://github.com/user-attachments/assets/dc66218b-ada1-49d5-94be-51eacef13f55)
+
+📖 Сейчас на этапе №1. Учусь видеть уязвимости до того, как их найдут другие
+
